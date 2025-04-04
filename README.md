@@ -51,14 +51,12 @@ git clone https://github.com/Krishrajput1107/razorpay-clone.git
 cd razorpay-clone
 Install Tailwind CSS (if using via CLI)
 
-bash
 Copy
 Edit
 npm install -D tailwindcss
 npx tailwindcss init
 Start Tailwind Build Process
 
-bash
 Copy
 Edit
 npx tailwindcss -i ./input.css -o ./output.css --watch
