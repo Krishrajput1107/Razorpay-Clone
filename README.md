@@ -8,11 +8,11 @@ A fully responsive **Razorpay landing page clone** built using **Tailwind CSS**.
 
 | Home Section | Features Section |
 |--------------|------------------|
-| ![Home](screenshots/screenshot1.png) | ![Features](screenshots/screenshot2.png) |
+| ![Home](Screenshot1.png) | ![Features](Screenshot2.png) |
 
 | Integrations | Testimonials | Footer |
 |--------------|--------------|--------|
-| ![Integrations](screenshots/screenshot3.png) | ![Testimonials](screenshots/screenshot4.png) | ![Footer](screenshots/screenshot5.png) |
+| ![Integrations](Screenshot3.png) | ![Testimonials](Screenshot4.png) | ![Footer](Screenshot5.png) |
 
 > Place your screenshots in a `screenshots/` folder inside the project root.
 
