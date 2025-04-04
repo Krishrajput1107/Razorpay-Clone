@@ -8,11 +8,11 @@ A fully responsive **Razorpay landing page clone** built using **Tailwind CSS**.
 
 | Home Section | Features Section |
 |--------------|------------------|
-| ![Home](Screenshot1.png) | ![Features](Screenshot2.png) |
+| ![Home](screenshots/Screenshot1.png) | ![Features](screenshots/Screenshot2.png) |
 
 | Integrations | Testimonials | Footer |
 |--------------|--------------|--------|
-| ![Integrations](Screenshot3.png) | ![Testimonials](Screenshot4.png) | ![Footer](Screenshot5.png) |
+| ![Integrations](screenshots/Screenshot3.png) | ![Testimonials](screenshots/Screenshot4.png) | ![Footer](screenshots/Screenshot5.png) |
 
 
 ---
