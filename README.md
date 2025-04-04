@@ -66,6 +66,26 @@ Open index.html in Browser
 
 Use VS Code’s Live Server or just open manually.
 
+```
+
+## 📌 To Do
+ Add animations using AOS/Framer Motion
+
+ Add dark mode support
+
+ Make Navbar sticky
+
+ Deploy on Netlify or Vercel
+
+## 🙋‍♂️ Author
+Made with ❤️ by Krish Rajput
+
+🌐 Portfolio
+
+🐙 GitHub
+
+💼 LinkedIn
+
 
 
 
