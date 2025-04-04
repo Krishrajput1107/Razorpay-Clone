@@ -78,11 +78,6 @@ Use VS Code’s Live Server or just open manually.
 ## 🙋‍♂️ Author
 Made with ❤️ by Krish Rajput
 
-🌐 Portfolio
-
-🐙 GitHub
-
-💼 LinkedIn
 
 
 
