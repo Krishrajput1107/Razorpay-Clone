@@ -52,7 +52,7 @@ Edit
 
 1. **Clone the Repository**
 ```bash
-git clone https://github.com/your-username/razorpay-clone.git
+git clone https://github.com/Krishrajput1107/razorpay-clone.git
 cd razorpay-clone
 Install Tailwind CSS (if using via CLI)
 
