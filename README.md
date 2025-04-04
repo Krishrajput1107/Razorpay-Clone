@@ -14,7 +14,6 @@ A fully responsive **Razorpay landing page clone** built using **Tailwind CSS**.
 |--------------|--------------|--------|
 | ![Integrations](Screenshot3.png) | ![Testimonials](Screenshot4.png) | ![Footer](Screenshot5.png) |
 
-> Place your screenshots in a `screenshots/` folder inside the project root.
 
 ---
 
@@ -41,10 +40,6 @@ A fully responsive **Razorpay landing page clone** built using **Tailwind CSS**.
 ---
 
 razorpay-clone/ ├── index.html ├── tailwind.config.js ├── postcss.config.js ├── input.css (optional) ├── output.css (generated) ├── screenshots/ │ ├── screenshot1.png │ ├── screenshot2.png │ ├── screenshot3.png │ ├── screenshot4.png │ └── screenshot5.png └── README.md
-
-yaml
-Copy
-Edit
 
 ---
 
